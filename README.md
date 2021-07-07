@@ -1,5 +1,5 @@
 PowerN est un jeu créé en Java qui consiste en une sorte de Puissance 4,
-mais avec une taille de plateau et un nombre de jetons a aligner variable.
+mais avec une taille de plateau et un nombre de jetons à aligner variable.
 
 Le joueur 1 est jaune et sa représentation est : X.
 
